@@ -1,0 +1,8 @@
+./ipynb_checkpoints/*
+./vscode/*
+data/training.1600000.processed.noemoticon.csv
+data/reddit.csv
+data/gab.csv
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/SECOND TRY-checkpoint.ipynb
+Untitled.ipynb
