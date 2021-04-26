@@ -1,5 +1,5 @@
 ./ipynb_checkpoints/*
-vscode
+vscode/*
 data/training.1600000.processed.noemoticon.csv
 data/reddit.csv
 data/gab.csv
